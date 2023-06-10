@@ -1,0 +1,27 @@
+.container{
+    
+
+}
+
+
+.input{
+    display: flex;
+    width: 150px;
+    height: 1.5rem;
+    position: relative;
+    top: 15px;
+    left: 20rem;
+    border-radius: 5px;
+    
+}
+
+.button{
+    display: flex;
+    position: relative;
+    top: 20px;
+    left: 25.7rem;
+    border-radius: 5px;
+    background-color: rgb(128, 218, 39);
+    
+
+}

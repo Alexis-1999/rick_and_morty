@@ -1,0 +1,27 @@
+.container {
+  width: 300px;
+  margin: 10px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJHFHJ0QoIMCHHNBHbT75AjRu-u0ofji3IA&usqp=CAU);
+  box-shadow: 0px 5px 20px #999;
+}
+
+.image {
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+.cardBody {
+  text-align: center;
+  padding: 15px 20px;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+.texts {
+  display: flexbox;
+  font: 1em sans-serif;
+  font-size: 10px;
+  
+}
